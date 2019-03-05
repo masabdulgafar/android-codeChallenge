@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">tantangan</string>
+    <string name="et_full_name">Full Name</string>
+    <string name="et_email_address">Email Address</string>
+    <string name="et_university_organization">University / Organization</string>
+    <string name="et_password">Password</string>
+    <string name="et_register">Register</string>
+    <string name="et_confirm_password">Confirm Password</string>
+    <string name="text_btn_register">Register</string>
+    <string name="text_btn_login">Login</string>
+    <string name="tv_welcome_to_binar_app">Welcome to Binar App</string>
+    <string name="msg_login_success">Login sukses</string>
+    <string name="msg_login_failed">Username atau password salah</string>
+    <string name="key_app_data">id.logivity.layouting.app_data_preferences</string>
+    <string name="text_logout">LogOut</string>
+    <string name="text_pw_ok">Password Sesuai</string>
+    <string name="text_pw_salah">Password tidak Sesuai</string>
+</resources>
